@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+bcrypt
+passlib
+jose
+python-multipart
+redis-om
+pandas
+alembic
+aiosqlite
